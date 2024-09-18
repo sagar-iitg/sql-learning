@@ -16,3 +16,7 @@ MYSQL--- SQL/User Management / Free and open source / Transcation management /sp
 ## MySQL Architecture
 
 
+## Write SQL query to list the number of students living in each city?
+## Student(id, name, addressId(refers id of adress table)), Address(id, city)
+
+
